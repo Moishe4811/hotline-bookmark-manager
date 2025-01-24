@@ -2,8 +2,8 @@
 
 // Configurations
 define("API_URL", "https://www.call2all.co.il/ym/api/");
-define("USERNAME", "your_username"); // Replace with your username
-define("PASSWORD", "your_password"); // Replace with your password
+define("USERNAME", "0733183618"); // Replace with your username
+define("PASSWORD", "5588726"); // Replace with your password
 
 /**
  * Log in to the API and return the token
